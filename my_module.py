@@ -10,3 +10,6 @@ def mul(a,b):
 def min(a,b):
     return a-b
     
+def dev(a,b):
+    return a\\b
+    
