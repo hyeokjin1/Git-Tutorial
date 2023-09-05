@@ -8,5 +8,10 @@ def mul(a,b):
     return a*b
     
 def min(a,b):
-    return a-b#주석
+
+    return a-b
+    
+def dev(a,b):
+    return a\\b
+
     
